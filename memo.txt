@@ -1,0 +1,8 @@
+1 git repositry作成
+2 git clone
+3 git初回push
+4 webpack導入
+5 webpack設定
+6 typescript導入、設定
+7 Typescriptの型検査
+8 React
